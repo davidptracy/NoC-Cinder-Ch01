@@ -1,3 +1,9 @@
+//Ported from Daniel Shiffman's Nature of Code
+//www.natureofcode.com
+
+//David Tracy
+//www.davidptracy.com
+
 #include "cinder/app/AppNative.h"
 #include "cinder/gl/gl.h"
 
@@ -13,7 +19,7 @@ class NoC_01_03_VectorSubtractionApp : public AppNative {
 	void update();
 	void draw();
     
-    //globally declared variables
+    //globally declared variable
     Vec2f mMouseLoc;
 };
 
