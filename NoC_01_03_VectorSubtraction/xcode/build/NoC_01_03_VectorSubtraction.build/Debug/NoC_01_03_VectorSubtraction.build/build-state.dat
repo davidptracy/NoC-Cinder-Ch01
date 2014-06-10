@@ -4435,9 +4435,9 @@ t1402427358
 s459637
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp
-c0000000053976170000000000000053C
-t1402429808
-s1340
+c000000005397734B00000000000006D0
+t1402434379
+s1744
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/Info.plist
 c00000000539757DE0000000000000462
@@ -4450,7 +4450,7 @@ t1402427358
 s301
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app
-t1402429811
+t1402434353
 s102
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/Info.plist
@@ -4458,8 +4458,8 @@ t1402429525
 s1541
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction
-t1402429811
-s3295264
+t1402434381
+s3299976
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/PkgInfo
 t1402429525
@@ -4475,8 +4475,8 @@ t1402429525
 s208
 
 N/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o
-t1402429809
-s1887320
+t1402434381
+s1888708
 
 N/var/folders/fg/q1zv51fs6896dslmlrv432hh0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NoC_01_03_VectorSubtraction_Prefix-axifullfigsreggnzmopwbeftnae/NoC_01_03_VectorSubtraction_Prefix.pch.pch
 t1402429528
@@ -4487,14 +4487,14 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfaf19ff39847b941^9964a0f39847b941^---0#1#1#--18"Check dependencies36"69057A41-CB03-4409-BC18-226671AF6D0F-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb2b902ccaa47b941^287f03ccaa47b941^---0#1#1#--18"Check dependencies36"550E8568-C8EE-40C8-ABE6-377C6A90C479-
 
 CCompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/i386/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s424122608.787215
-e424122610.006856
+s424127180.023069
+e424127181.065120
 r1
 xCompileC
 xbuild/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o
@@ -4505,8 +4505,8 @@ xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp
 d/Users/davidtracy/Documents/cinder_master/include/cinder/app/AppNative.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp311"CompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf0a4c9f09847b941^f8dd1cf29847b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp0000000000000000^3975"CompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-generated-files.hmap -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-own-target-headers.hmap -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-all-target-headers.hmap -iquote /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-project-headers.hmap -iquote../../../../Documents/cinder_master/include -iquote../include -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/include -I../../../../Documents/cinder_master/boost -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/DerivedSources/x86_64 -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/DerivedSources -F/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -include /var/folders/fg/q1zv51fs6896dslmlrv432hh0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NoC_01_03_VectorSubtraction_Prefix-axifullfigsreggnzmopwbeftnae/NoC_01_03_VectorSubtraction_Prefix.pch -MMD -MT dependencies -MF /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.d --serialize-diagnostics /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.dia -c /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp -o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o36"3FEEFD3B-FD1A-4686-A79A-19201EEA8CC6-
-b40592638-CB42-44BC-BE6E-89258D5D734D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp311"CompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler2ffb05ccaa47b941^69ad10cdaa47b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp0000000000000000^3975"CompileC build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-generated-files.hmap -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-own-target-headers.hmap -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-all-target-headers.hmap -iquote /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/NoC_01_03_VectorSubtraction-project-headers.hmap -iquote../../../../Documents/cinder_master/include -iquote../include -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/include -I../../../../Documents/cinder_master/boost -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/DerivedSources/x86_64 -I/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/DerivedSources -F/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -include /var/folders/fg/q1zv51fs6896dslmlrv432hh0000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/NoC_01_03_VectorSubtraction_Prefix-axifullfigsreggnzmopwbeftnae/NoC_01_03_VectorSubtraction_Prefix.pch -MMD -MT dependencies -MF /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.d --serialize-diagnostics /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.dia -c /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/src/NoC_01_03_VectorSubtractionApp.cpp -o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtractionApp.o36"14C84F51-98C2-4360-A1F6-0E8FB3359405-
+b27075C41-337D-458F-87D3-DB77BA43161D
 
 CCpResource /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/resources/CinderApp.icns build/Debug/NoC_01_03_VectorSubtraction.app/Contents/Resources/CinderApp.icns
 s424122325.458087
@@ -4522,8 +4522,8 @@ CLd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/bui
 r0
 
 CLd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction normal x86_64
-s424122610.008481
-e424122611.256053
+s424127181.066635
+e424127182.001344
 r1
 xLd
 x/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction
@@ -4546,6 +4546,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
@@ -4576,16 +4578,14 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4607,8 +4607,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Link /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction103"Ld build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction normal x86_644e4102f29847b941^478d41f39847b941^---0#0#1#--1535"Ld build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction normal x86_64    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -F/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -filelist /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtraction.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../../Documents/cinder_master/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtraction_dependency_info.dat -o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction36"1E89240D-B152-4DFD-A7A0-9A25A989F64B-
-b40592638-CB42-44BC-BE6E-89258D5D734D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Link /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction103"Ld build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction normal x86_640d1b11cdaa47b941^085b00ceaa47b941^---0#0#1#--1535"Ld build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction normal x86_64    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -F/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug -filelist /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtraction.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../../Documents/cinder_master/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/NoC_01_03_VectorSubtraction.build/Debug/NoC_01_03_VectorSubtraction.build/Objects-normal/x86_64/NoC_01_03_VectorSubtraction_dependency_info.dat -o /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/MacOS/NoC_01_03_VectorSubtraction36"73771759-0CC3-47E5-8A69-4F0629BE6742-
+b27075C41-337D-458F-87D3-DB77BA43161D
 
 CProcessInfoPlistFile /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app/Contents/Info.plist /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/Info.plist
 s424122325.455506
@@ -5445,11 +5445,11 @@ CProcessPCH++ /var/folders/fg/q1zv51fs6896dslmlrv432hh0000gp/C/com.apple.Develop
 r0
 
 CTouch /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app
-s424122611.256961
-e424122611.260917
+s424127182.002389
+e424127182.006210
 r1
 xTouch
 x/Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app49"Touch build/Debug/NoC_01_03_VectorSubtraction.app6bd241f39847b941^60cc42f39847b941^---0#0#1#--269"Touch build/Debug/NoC_01_03_VectorSubtraction.app    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    /usr/bin/touch -c /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app36"9BA88FE2-14CB-427D-A940-7A063FCA74BB-
-b40592638-CB42-44BC-BE6E-89258D5D734D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app49"Touch build/Debug/NoC_01_03_VectorSubtraction.app87a600ceaa47b941^a29701ceaa47b941^---0#0#1#--269"Touch build/Debug/NoC_01_03_VectorSubtraction.app    cd /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode    /usr/bin/touch -c /Users/davidtracy/NOC_Cinder/Chapter01/NoC_01_03_VectorSubtraction/xcode/build/Debug/NoC_01_03_VectorSubtraction.app36"AC72A318-F632-463D-A7C3-ED4E83123D67-
+b27075C41-337D-458F-87D3-DB77BA43161D
 
